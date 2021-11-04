@@ -10,5 +10,7 @@ describe ('DevFinance', () => {
         cy.get('#date').type('2021-11-03')
 
         cy.contains('button', 'Salvar').click()
+
+        cy.get('table tbody tr').should('have.length', 1)
     })
 });
