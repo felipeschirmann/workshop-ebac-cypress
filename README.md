@@ -8,4 +8,4 @@ Seu desafio é:  (https://devfinance-agilizei.netlify.app/#)
 - Subir seu projeto para o Github e colocar um GIF de execução no README 
 - Enviar a URL para correção no link enviado na aula
 
-https://raw.githubusercontent.com/felipeschirmann/workshop-ebac-cypress/main/devfinance.spec.js.gif
+![Alt Text](https://raw.githubusercontent.com/felipeschirmann/workshop-ebac-cypress/main/devfinance.spec.js.gif)
