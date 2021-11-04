@@ -7,3 +7,5 @@ Seu desafio é:  (https://devfinance-agilizei.netlify.app/#)
 - Automatizar a jornada de exclusão de uma entrada OU saída 
 - Subir seu projeto para o Github e colocar um GIF de execução no README 
 - Enviar a URL para correção no link enviado na aula
+
+https://raw.githubusercontent.com/felipeschirmann/workshop-ebac-cypress/main/devfinance.spec.js.gif
