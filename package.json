@@ -1,0 +1,14 @@
+{
+  "name": "test-cypress",
+  "version": "1.0.0",
+  "description": "Desafio Automatizando testes usando o Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Schirmann",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.5.0"
+  }
+}
